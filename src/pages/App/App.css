@@ -1,6 +1,16 @@
-div{
+.app{
+  display: grid;
+  grid-template-rows: repeat(4, 1fr);
+}
+.background{
+  grid-template-rows: 1/2;
   text-align: center;
-  background-image: url(https://i.imgur.com/KJXHeyE.jpg?1)
+}
+
+.about{
+  grid-template-rows: 2/3;
+  position: relative;
+
 }
 
 
