@@ -1,0 +1,21 @@
+html, body, #root, .App {
+  height: 100%;
+}
+.main{
+  height: 100%;
+  width: 100%;
+  display: block;
+  background-image: url(https://i.imgur.com/d8xoNdm.jpg);
+  background-attachment: fixed;
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
+
+.meMain {
+  display: block;
+}
+
+.about {
+  display: block;
+}
