@@ -1,6 +1,30 @@
 .aboutBG {
-    background:black;
-    height: 100%;
-    width: 100px;
+    margin-top: -22px;
+    background: Black;
+    width: 100%;
     color: white;
+    text-align: center;
+}
+
+.aboutHead{
+    font-size: 60px;
+    margin-top: 22px;
+}
+
+.aboutTxt {
+    text-align: left;
+    margin: 2px 12%;
+    font-size: 25px;
+}
+
+.aboutStr{
+    margin: 3% 10%;
+    font-size: 35px;
+}
+
+.skillTxt {
+    margin-top: -8px;
+}
+
+.skillContainer {
 }
