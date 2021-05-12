@@ -22,9 +22,22 @@
     font-size: 35px;
 }
 
-.skillTxt {
-    margin-top: -8px;
+.skillContainer {
+    margin: 0 12%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
 }
 
-.skillContainer {
+.skillSingle {
+    height: 200px;
+    width: 200px;
+}
+
+.skillTxt {
+    margin-top: -4px;
+}
+
+.skillSz {
+    max-height: 96px;
 }
