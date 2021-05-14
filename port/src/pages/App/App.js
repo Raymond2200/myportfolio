@@ -2,6 +2,7 @@ import './App.css';
 import Nav from '../../components/Nav/Nav'
 import Me from '../../components/Me/Me'
 import About from '../../components/About/About'
+import Projects from '../../components/Projects/Projects'
 
 function App() {
   return (
@@ -10,7 +11,10 @@ function App() {
         <Nav  className="navMain"/>
         <Me className="meMain"/>
       </div>
-        <About className="aboutMain"/>
+      <About className="aboutMain"/>
+      <div className="main">
+        <Projects />
+      </div>
     </div>
   );
 }

@@ -12,6 +12,10 @@ html, body, #root, .App {
   background-size: cover; 
 }
 
+.navMain {
+  box-shadow: 20px 29px 2px #000000;
+}
+
 .meMain {
   display: block;
 }
