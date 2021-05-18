@@ -12,7 +12,7 @@ function App() {
         <Me className="meMain"/>
       </div>
       <About className="aboutMain"/>
-      <div className="main">
+      <div className="main2">
         <Projects />
       </div>
     </div>
