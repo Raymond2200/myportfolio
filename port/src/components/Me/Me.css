@@ -2,7 +2,7 @@
     margin-top: -25px;
     height: 100%;
     width: 100%;
-    background: rgba(0,0,0,0.4);
+    background: rgba(0,0,0,0.5);
     display: grid;
     grid-template-rows: 20% 1fr;
 }
@@ -34,9 +34,11 @@
 
 .meName {
     font-size: 55px;
+    color: white;
 }
 
 .meTxt {
     text-align: left;
-    font-size: 25px
+    font-size: 25px;
+    color: white;
 }

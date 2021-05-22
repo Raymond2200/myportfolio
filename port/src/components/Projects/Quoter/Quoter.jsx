@@ -1,11 +1,11 @@
-import "./Moose.css"
+import './Quoter.css'
 
-function Moose(props) {
-    return(
+function Quoter(props) {
+    return (
         <div className="mooseCont">
-            <h2 className="mooseTitle">Moose Tracks</h2>
+            <h2 className="mooseTitle">Quoter</h2>
             <h3>The project</h3>
-            <p className="mooseText">Moose Tracks is about empowering users across the continent whether in remote communities, on the road, near a campsite, or in a regular suburban neighborhood. Moose tracks enables it’s users to view sightings of potentially hazardous or inconvenient wildlife in there area. This allows users to plan and react accordingly. To add a spot a user simply needs to create an account with us and by adding a spot they can alert users in their local area of the animals approximate location. Spots do timeout so there is no need to worry about removing your old spots.</p>
+            <p className="mooseText">Quoter is an express based web application. It’s primary function is in allowing users to track quotes on a personal list. On this list users can add quotes which are randomly fetched from an API. Or if they want they can search the app’s database for an existing one. If no quote is present than the user can create new quotes which will be added to the database and made available to other users.</p>
             <h3>Technologies Involved</h3>
             <div className="skillContainer">
                 <div className="skillSingle"> <img src="https://img.icons8.com/fluent/96/000000/google-maps-new.png" alt="1"/><p className="skillTxt">Google Maps API</p></div>
@@ -28,4 +28,4 @@ function Moose(props) {
     )
 }
 
-export default Moose
+export default Quoter
