@@ -1,0 +1,26 @@
+.mooseTitle {
+    font-size: 50px;
+}
+
+.moosePics {
+    display: flex;
+    justify-content: space-around;
+}
+
+.mooseImg {
+    max-width: 13%;
+    border-radius: 10px;
+    border: solid black 3px
+}
+.mooseCont {
+    margin: 0 5%;
+}
+
+.mooseText{
+    margin: 20px 5%;
+    font-size: 25px;
+}
+
+.linked{
+    font-size: 20px;
+}

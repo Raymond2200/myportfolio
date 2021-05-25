@@ -27,6 +27,8 @@ function About(props) {
             <h2 className="aboutStr">Working Skills</h2>
             <div className="skillContainer">
                 <div className="skillSingle"> <img src="https://i.imgur.com/sxqbXcf.png" alt="1"/><p className="skillTxt">Django</p></div>
+                <div className="skillSingle"> <img className="skillSz" src="https://i.imgur.com/jCJWCZ3.png" alt="1"/><p className="skillTxt">JWT</p></div>
+                <div className="skillSingle"> <img src="https://i.imgur.com/7ukKABg.png" alt="1"/><p className="skillTxt">Google Auth</p></div>
                 <div className="skillSingle"> <img src="https://img.icons8.com/color/96/000000/postgreesql.png" alt="1"/><p className="skillTxt">PostgreSQL</p></div>
                 <div className="skillSingle"> <img src="https://img.icons8.com/color/96/000000/amazon-s3.png" alt="1"/><p className="skillTxt">AWS S3</p></div>
                 <div className="skillSingle"> <img src="https://img.icons8.com/fluent/96/000000/google-maps-new.png" alt="1"/><p className="skillTxt">Google Maps API</p></div>

@@ -1,5 +1,5 @@
 .projBC{
-    background: rgba(0,0,0,0.5);
+    background: rgba(0,0,0,0.6);
     margin-top: -25px;
     margin-bottom: 25px;
 }
@@ -45,10 +45,10 @@
 
 .projSelect {
     height: 100%;
-    width: 100.5%;
+    width: 101%;
     position: absolute;
     top: 50%;
-    left: 50.7%;
+    left: 50%;
     transform: translate(-50%, -50%);
     opacity: .95;
     transition: .3s;
