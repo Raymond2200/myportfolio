@@ -6,8 +6,12 @@ function Moose(props) {
             <h2 className="mooseTitle">Moose Tracks</h2>
             <h3>The project</h3>
             <p className="mooseText">Moose Tracks is about empowering users across the continent whether in remote communities, on the road, near a campsite, or in a regular suburban neighborhood. Moose tracks enables it’s users to view sightings of potentially hazardous or inconvenient wildlife in there area. This allows users to plan and react accordingly. To add a spot a user simply needs to create an account with us and by adding a spot they can alert users in their local area of the animals approximate location. Spots do timeout so there is no need to worry about removing your old spots.</p>
-            <a className="linked" href="https://moosetracks.herokuapp.com/" target="_blank">The Site</a>
-            <a className="linked" href="https://github.com/Raymond2200/WildLifeSpotter" target="_blank">The Code</a>
+            <div className='siteInf'>
+                <a className="linked" href="https://moosetracks.herokuapp.com/" target="_blank">The Site</a>
+                <a className="linked" href="https://github.com/Raymond2200/WildLifeSpotter" target="_blank">The Code</a>
+                <h3>Guest Account</h3>
+                <p>Username: guest@guest &nbsp;&nbsp;  Password: welcome </p>
+            </div>
             <h3>Technologies Involved</h3>
             <div className="skillContainer">
                 <div className="skillSingle"> <img src="https://img.icons8.com/fluent/96/000000/google-maps-new.png" alt="1"/><p className="skillTxt">Google Maps API</p></div>

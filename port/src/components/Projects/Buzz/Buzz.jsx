@@ -6,8 +6,12 @@ function Buzz(props) {
             <h2 className="mooseTitle">Buzz</h2>
             <h3>The project</h3>
             <p className="mooseText">Buzz is an app designed for mobile use by a team of Full Stack Developers and User Experience Designers. It’s main feature revolves around being able to look up and add specific coffee reviews for coffee lovers. To be able to do so users must first create an account. Once done they will be able to add specific coffees to store and add associated reviews. </p>
-            <a className="linked" href="https://secret-river-35567.herokuapp.com/ranquotes" target="_blank">The Site</a>
-            <a className="linked" href="https://github.com/Raymond2200/Project2" target="_blank">The Code</a>
+            <div className='siteInf'>
+                <a className="linked" href="https://buzzcollectco.herokuapp.com/" target="_blank">The Site</a>
+                <a className="linked" href="https://github.com/Ckrcok/buzz" target="_blank">The Code</a>
+                <h3>Guest Account</h3>
+                <p>Username: Guest &nbsp;&nbsp;  Password: Welcomee </p>
+            </div>
             <h3>Technologies Involved</h3>
             <div className="skillContainer">
                 <div className="skillSingle"> <img src="https://img.icons8.com/color/96/000000/heroku.png" alt="1"/><p className="skillTxt">Heroku</p></div>
@@ -18,6 +22,7 @@ function Buzz(props) {
                 <div className="skillSingle"> <img src="https://img.icons8.com/color/96/000000/postgreesql.png" alt="1"/><p className="skillTxt">PostgreSQL</p></div>
                 <div className="skillSingle"> <img src="https://img.icons8.com/color/96/000000/amazon-s3.png" alt="1"/><p className="skillTxt">AWS S3</p></div>
                 <div className="skillSingle"> <img src="https://img.icons8.com/color/96/000000/python.png" alt="1"/><p className="skillTxt">Python 3</p></div>
+                <div className="skillSingle"> <img className="skillSz" src="https://i.imgur.com/OMqd5I8.png" alt="1"/><p className="skillTxt">HTML5</p></div>
             </div>
             <div className="moosePics">
                 <img className="mooseImg" src="https://i.imgur.com/GSht3DQ.png" />

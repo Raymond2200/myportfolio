@@ -5,11 +5,11 @@
 .moosePics {
     display: flex;
     justify-content: space-around;
-    
+
 }
 
-.quoterImg {
-    max-width: 40%;
+.mooseImg {
+    max-width: %;
     border-radius: 10px;
     border: solid black 3px;
 }
@@ -20,4 +20,12 @@
 .mooseText{
     margin: 20px 5%;
     font-size: 25px;
+}
+
+.siteInfo{
+    background: rgba(0,0,0,1);
+    height: 65px;
+    width: 400px;
+    margin:40px auto;
+    border-radius: 20px;
 }
