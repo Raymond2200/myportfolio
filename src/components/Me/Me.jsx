@@ -2,12 +2,14 @@ import './Me.css'
 
 function Me(props) {
     return(
-        <div className='me'>
-            <div className='whoText'>
-                <h1 className="name">Raymond<br/>&nbsp;&nbsp;&nbsp;&nbsp; Casgrain</h1>
-                <h2 className="career"> FULL-STACK DEVELOPER</h2>
+        <div className="meBG">
+            <div className="meCon">
+                <div className="meCover">
+                    <h1 className="meName">Raymond <br/>&nbsp;&nbsp;&nbsp;&nbsp; Casgrain </h1>
+                    <h2 className="meTxt">&#60; FULL-STACK DEVELOPER /&gt;</h2>
+                </div>
+                <img alt="Raymond" src="https://i.imgur.com/ePKqZIB.jpg"  className="meimg"/>
             </div>
-            <img className="meImg" src="https://i.imgur.com/UMB5cGG.jpg"/>
         </div>
     )
 }

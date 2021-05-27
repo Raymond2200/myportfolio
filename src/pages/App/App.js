@@ -1,22 +1,23 @@
 import './App.css';
-import Background from '../../components/Background/Background'
-import Nav from '../../components/Nav/Nav'
-import Me from '../../components/Me/Me'
-import About from '../../components/About/About'
+import Nav from '../../components/Nav/Nav';
+import Me from '../../components/Me/Me';
+import About from '../../components/About/About';
+import Projects from '../../components/Projects/Projects';
 
 function App() {
-    return (
-        <div className="app">
-            <Background/>
-            <div classnName="background">
-                <Nav/>
-                <Me/>
-            </div>
-            <div className="about">
-                <About />
-            </div>
-        </div>
-    );
+
+  return (
+    <div className="App">
+      <Nav className="navMain"/>
+      <div className="main">
+        <Me className="meMain"/>
+      </div>
+      <About className="aboutMain"/>
+      <div className="main2">
+        <Projects />
+      </div>
+    </div>
+  );
 }
 
 export default App;
