@@ -13,27 +13,27 @@ function About(props) {
             </div>
             <h2 className="aboutStr">Strong Skills</h2>
             <div className="skillContainer">
-                <div className="skillSingle"> <img src="https://img.icons8.com/color/96/000000/html-5--v2.png" alt="testing"/><p className="skillTxt">JavaScript</p></div>
-                <div className="skillSingle"> <img src="https://img.icons8.com/color/96/000000/python.png" alt="1"/><p className="skillTxt">Python 3</p></div>
-                <div className="skillSingle"> <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="1"/><p className="skillTxt">Node.js</p></div>
-                <div className="skillSingle"> <img className="skillSz" src="https://i.imgur.com/OMqd5I8.png" alt="1"/><p className="skillTxt">HTML5</p></div>
-                <div className="skillSingle"> <img src="https://img.icons8.com/color/96/000000/css3.png" alt="1"/><p className="skillTxt">CSS</p></div>
-                <div className="skillSingle"> <img src="https://i.imgur.com/f97E9si.png" alt="1"/><p className="skillTxt">ExpressJS</p></div>
-                <div className="skillSingle"> <img src="https://img.icons8.com/color/96/000000/react-native.png" alt="1"/><p className="skillTxt">ReactJS</p></div>
-                <div className="skillSingle"> <img src="https://img.icons8.com/color/96/000000/bootstrap.png" alt="1"/><p className="skillTxt">Bootstrap</p></div>
-                <div className="skillSingle"> <img src="https://i.imgur.com/W2yOMF2.png" alt="1"/><p className="skillTxt">MongoDB</p></div>
-                <div className="skillSingle"> <img className="skillSz" src="https://img.icons8.com/plasticine/100/000000/github.png" alt="1"/><p className="skillTxt">GitHub</p></div>
+                <div className="skillSingle"> <img src="https://img.icons8.com/color/96/000000/html-5--v2.png" alt=""/><p className="skillTxt">JavaScript</p></div>
+                <div className="skillSingle"> <img src="https://img.icons8.com/color/96/000000/python.png" alt=""/><p className="skillTxt">Python 3</p></div>
+                <div className="skillSingle"> <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt=""/><p className="skillTxt">Node.js</p></div>
+                <div className="skillSingle"> <img className="skillSz" src="https://i.imgur.com/OMqd5I8.png" alt=""/><p className="skillTxt">HTML5</p></div>
+                <div className="skillSingle"> <img src="https://img.icons8.com/color/96/000000/css3.png" alt=""/><p className="skillTxt">CSS</p></div>
+                <div className="skillSingle"> <img src="https://i.imgur.com/f97E9si.png" alt=""/><p className="skillTxt">ExpressJS</p></div>
+                <div className="skillSingle"> <img src="https://img.icons8.com/color/96/000000/react-native.png" alt=""/><p className="skillTxt">ReactJS</p></div>
+                <div className="skillSingle"> <img src="https://img.icons8.com/color/96/000000/bootstrap.png" alt=""/><p className="skillTxt">Bootstrap</p></div>
+                <div className="skillSingle"> <img src="https://i.imgur.com/W2yOMF2.png" alt=""/><p className="skillTxt">MongoDB</p></div>
+                <div className="skillSingle"> <img className="skillSz" src="https://img.icons8.com/plasticine/100/000000/github.png" alt=""/><p className="skillTxt">GitHub</p></div>
             </div>
             <h2 className="aboutStr">Working Skills</h2>
             <div className="skillContainer">
-                <div className="skillSingle"> <img src="https://i.imgur.com/sxqbXcf.png" alt="1"/><p className="skillTxt">Django</p></div>
-                <div className="skillSingle"> <img className="skillSz" src="https://i.imgur.com/jCJWCZ3.png" alt="1"/><p className="skillTxt">JWT</p></div>
-                <div className="skillSingle"> <img src="https://i.imgur.com/7ukKABg.png" alt="1"/><p className="skillTxt">Google Auth</p></div>
-                <div className="skillSingle"> <img src="https://img.icons8.com/color/96/000000/postgreesql.png" alt="1"/><p className="skillTxt">PostgreSQL</p></div>
-                <div className="skillSingle"> <img src="https://img.icons8.com/color/96/000000/amazon-s3.png" alt="1"/><p className="skillTxt">AWS S3</p></div>
-                <div className="skillSingle"> <img src="https://img.icons8.com/fluent/96/000000/google-maps-new.png" alt="1"/><p className="skillTxt">Google Maps API</p></div>
-                <div className="skillSingle"> <img src="https://img.icons8.com/color/96/000000/material-ui.png" alt="1"/><p className="skillTxt">Material UI</p></div>
-                <div className="skillSingle"> <img src="https://img.icons8.com/color/96/000000/heroku.png" alt="1"/><p className="skillTxt">Heroku</p></div>
+                <div className="skillSingle"> <img src="https://i.imgur.com/sxqbXcf.png" alt=""/><p className="skillTxt">Django</p></div>
+                <div className="skillSingle"> <img className="skillSz" src="https://i.imgur.com/jCJWCZ3.png" alt=""/><p className="skillTxt">JWT</p></div>
+                <div className="skillSingle"> <img src="https://i.imgur.com/7ukKABg.png" alt=""/><p className="skillTxt">Google Auth</p></div>
+                <div className="skillSingle"> <img src="https://img.icons8.com/color/96/000000/postgreesql.png" alt=""/><p className="skillTxt">PostgreSQL</p></div>
+                <div className="skillSingle"> <img src="https://img.icons8.com/color/96/000000/amazon-s3.png" alt=""/><p className="skillTxt">AWS S3</p></div>
+                <div className="skillSingle"> <img src="https://img.icons8.com/fluent/96/000000/google-maps-new.png" alt=""/><p className="skillTxt">Google Maps API</p></div>
+                <div className="skillSingle"> <img src="https://img.icons8.com/color/96/000000/material-ui.png" alt=""/><p className="skillTxt">Material UI</p></div>
+                <div className="skillSingle"> <img src="https://img.icons8.com/color/96/000000/heroku.png" alt=""/><p className="skillTxt">Heroku</p></div>
             </div>
         </div>
     )

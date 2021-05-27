@@ -8,7 +8,7 @@ function Me(props) {
                     <h1 className="meName">Raymond <br/>&nbsp;&nbsp;&nbsp;&nbsp; Casgrain </h1>
                     <h2 className="meTxt">&#60; FULL-STACK DEVELOPER /&gt;</h2>
                 </div>
-                <img src="https://i.imgur.com/ePKqZIB.jpg" className="meimg"/>
+                <img alt="Raymond" src="https://i.imgur.com/ePKqZIB.jpg"  className="meimg"/>
             </div>
         </div>
     )

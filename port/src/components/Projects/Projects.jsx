@@ -1,5 +1,5 @@
 import "./Projects.css"
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import Moose from "./Moose/Moose"
 import Buzz from "./Buzz/Buzz"
 import Quoter from "./Quoter/Quoter"

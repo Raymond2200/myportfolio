@@ -7,8 +7,8 @@ function Quoter(props) {
             <h3>The project</h3>
             <p className="mooseText">Quoter is an express based web application. It’s primary function is in allowing users to track quotes on a personal list. On this list users can add quotes which are randomly fetched from an API. Or if they want they can search the app’s database for an existing one. If no quote is present than the user can create new quotes which will be added to the database and made available to other users.</p>
             <div className='siteInfo'>
-                <a className="linked" href="https://secret-river-35567.herokuapp.com/" target="_blank">The Site</a>
-                <a className="linked" href="https://github.com/Raymond2200/Project2" target="_blank">The Code</a>
+                <a className="linked" rel="noopener noreferrer" href="https://secret-river-35567.herokuapp.com/" target="_blank">The Site</a>
+                <a className="linked" rel="noopener noreferrer" href="https://github.com/Raymond2200/Project2" target="_blank">The Code</a>
             </div>
             <h3>Technologies Involved</h3>
             <div className="skillContainer">
