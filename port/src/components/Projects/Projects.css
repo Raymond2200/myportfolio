@@ -15,7 +15,6 @@
 }
 
 .projCard {
-    box-shadow: 6px 6px 0 rgba(0,0,0,.4);
     transition: .3s;
     background: rgba(0, 0, 0, 0.4);
     width: 25%;
@@ -55,8 +54,7 @@
     background: black;
     color: white;
     border-radius: 10px;
-    -webkit-box-shadow: 5px 5px 50px 40px white; 
-    box-shadow: 5px 5px 50px 40px white;
+    box-shadow: 5px 5px 29px 12px #FFFFFF;
 }
 
 .projCard:hover .projCont {
